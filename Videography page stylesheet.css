@@ -1,0 +1,14 @@
+@charset "UTF-8";
+@import url("Wallman_Bold_free/stylesheet.css");
+body {
+			background: linear-gradient( -90deg, #ebbdbd, #ddadb1, #ae7787, #674463);
+			color: rgba(255,255,255,1.00);
+	margin-top: 35px;
+		}
+h1 {
+    font-family: "Wallman Bold free";
+    font-size: 30px;
+    text-shadow: 3px 3px 0 #000;
+    text-align: center;
+    margin-bottom: -17px;
+		}

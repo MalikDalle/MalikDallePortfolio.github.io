@@ -1,0 +1,89 @@
+@charset "UTF-8";
+@import url("Wallman_Bold_free/stylesheet.css");
+@import url("Cherry_Monospace_Light/stylesheet.css");
+@import url("QUARTZO___PERSONAL_USE_ONLY/stylesheet.css");
+/* CSS Document */
+
+h1 {
+    font-family: "Wallman Bold free";
+    font-size: 30px;
+    text-shadow: 3px 3px 0 #000;
+    text-align: center;
+    margin-bottom: -17px;
+		}
+
+body {
+			background: linear-gradient( -90deg, #ebbdbd, #ddadb1, #ae7787, #674463);
+			color: rgba(255,255,255,1.00);
+	margin-top: 35px;
+		}
+h3 {
+    font-family: 'Wallman Bold free';
+    text-align: center;
+    text-shadow: 2px 1.5px 0 #000;
+    font-size: 15px;
+    padding-top: 0px;
+    padding-bottom: 73px;
+}
+
+h2 {
+    font-family: "QUARTZO ∏ PERSONAL USE ONLY";
+    font-size: 50px;
+    text-align: center;
+    color: #8A0304;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    margin-bottom: 6px;
+}
+
+div {
+    align-content: center;
+    text-align: center;
+}
+
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+ul.menu {
+    list-style-type: none;
+    background-color: #000000;
+    text-align: center;
+    /*padding-left: 352px;*/
+	width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+		}
+.menu li {
+    float: left;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+		}
+		
+		.menu li a {
+    display: block;
+    width: 80px;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px #FFFFFF solid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+		}
+
+		.menu li a:hover {
+    background-color: #ebbdbd;
+    color: white;
+    text-align: center;
+		}
+
+		.actief {
+    color: white;
+    text-align: center;
+		}
